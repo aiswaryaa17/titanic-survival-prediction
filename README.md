@@ -36,7 +36,7 @@ The model was evaluated using accuracy and other classification metrics.
 
 ## Results
 
-The model achieved an accuracy of 78%, showing that it was able to predict passenger survival reasonably well.
+The model achieved an accuracy of 79%, showing that it was able to predict passenger survival reasonably well.
 
 ## Conclusion
 
